@@ -1,0 +1,17 @@
+
+Descreva, utilizando estruturas de pseudocódigo (“se”, “faça enquanto”, etc), o passo a passo para separar o seguinte grupo de pessoas em três outros subgrupos:
+
+Paulo, 18 anos, mora em São Paulo;
+Joana, 46 anos, mora em Campinas;
+José, 40 anos, mora em Paulínia;
+Helena, 32 anos, mora em São Paulo;
+Jenifer, 22 anos, mora em Campinas;
+Olavo, 38 anos, mora em São Paulo;
+Pedro, 20 anos, mora em Americana;
+ 
+Subgrupo 1 - Todas as pessoas que moram em São Paulo
+
+Subgrupo 2 - Todas as pessoas com idade menor do que 40 anos
+
+Subgrupo 3 - Todas as pessoas com 20 anos ou mais e que não moram em Campinas.
+ 
